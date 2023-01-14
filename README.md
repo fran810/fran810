@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francis</h1>
-<h3 align="center">A passionate frontend developer from Venezuela, currently reciding in Texas.</h3>
+<h3 align="center">A passionate frontend developer from Venezuela, living in Texas.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
